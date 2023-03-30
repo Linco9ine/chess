@@ -1,6 +1,5 @@
 # Introduction
 -This is a person versus person chess game implemented using python module pygame.
--Link to deployed app: https://fionawekulo.github.io/Royal-Rumble-Chess-Game/
 
 # Installation
 -Make sure you have python and pygame installed.
